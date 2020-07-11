@@ -3,3 +3,7 @@ Ini merupakan percobaan untuk belajar bagaimana bekerja dengan github.
 -Dapat bekerja dengan Github
 -Dapat commit beberapa karya
 -Bermanfaat untuk diri sendiri dan orang banyak
+
+-membuat laporan PI
+-membuat skripsi
+-lulus membanggakan orang tua
