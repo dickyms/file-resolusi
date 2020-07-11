@@ -4,6 +4,6 @@ Ini merupakan percobaan untuk belajar bagaimana bekerja dengan github.
 -Dapat commit beberapa karya
 -Bermanfaat untuk diri sendiri dan orang banyak
 
--membuat laporan PI
 -membuat skripsi
 -lulus membanggakan orang tua
+-Bekerja dengan gaji yang berkah
